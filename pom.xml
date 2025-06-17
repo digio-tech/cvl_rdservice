@@ -6,5 +6,5 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.ecs.rdlibrary</groupId>
     <artifactId>cvl_rdservice</artifactId>
-    <version>1.0.0</version>
+    <version>5.0.1</version>
 </project>
